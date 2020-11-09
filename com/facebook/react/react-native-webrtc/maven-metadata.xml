@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-webrtc</artifactId>
+  <versioning>
+    <release>1.84.0-jitsi-5859505</release>
+    <versions>
+      <version>1.84.0-jitsi-5859505</version>
+    </versions>
+    <lastUpdated>20201109032705</lastUpdated>
+  </versioning>
+</metadata>
