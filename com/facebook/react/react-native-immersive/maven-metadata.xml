@@ -3,13 +3,23 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-immersive</artifactId>
   <versioning>
-    <release>2.0.0-jitsi-5956237</release>
+    <release>2.0.0-jitsi-6042473</release>
     <versions>
       <version>2.0.0-jitsi-5859505</version>
       <version>2.0.0-jitsi-5859756</version>
       <version>2.0.0-jitsi-5869488</version>
       <version>2.0.0-jitsi-5956237</version>
+      <version>2.0.0-jitsi-5957170</version>
+      <version>2.0.0-jitsi-5957219</version>
+      <version>2.0.0-jitsi-5957253</version>
+      <version>2.0.0-jitsi-5957307</version>
+      <version>2.0.0-jitsi-5957344</version>
+      <version>2.0.0-jitsi-5957376</version>
+      <version>2.0.0-jitsi-5957451</version>
+      <version>2.0.0-jitsi-5957490</version>
+      <version>2.0.0-jitsi-5957678</version>
+      <version>2.0.0-jitsi-6042473</version>
     </versions>
-    <lastUpdated>20201120080920</lastUpdated>
+    <lastUpdated>20201130074204</lastUpdated>
   </versioning>
 </metadata>
